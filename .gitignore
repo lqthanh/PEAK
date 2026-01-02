@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+!.doorstop_version
+!doorstop_config.ini
+!winhttp.dll
+
+!/BepInEx/
+!/BepInEx/**
